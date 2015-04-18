@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloXamarin", "HelloXamarin\HelloXamarin.csproj", "{692B64EE-DBF1-452B-949C-74D37F4DB7EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloXamarin.Droid", "Droid\HelloXamarin.Droid.csproj", "{8E6F6E55-8B91-4FD5-A8FF-5DF8EE7C769E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692B64EE-DBF1-452B-949C-74D37F4DB7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692B64EE-DBF1-452B-949C-74D37F4DB7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692B64EE-DBF1-452B-949C-74D37F4DB7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692B64EE-DBF1-452B-949C-74D37F4DB7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E6F6E55-8B91-4FD5-A8FF-5DF8EE7C769E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6F6E55-8B91-4FD5-A8FF-5DF8EE7C769E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6F6E55-8B91-4FD5-A8FF-5DF8EE7C769E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6F6E55-8B91-4FD5-A8FF-5DF8EE7C769E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
